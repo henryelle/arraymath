@@ -76,5 +76,5 @@ void MultArrays(int array1[], int array2[], int arrayOut[], int size)
         arrayOut[i] = array1[i] * array2[i];
             printf("\t%d\n", arrayOut[i]);
     }
-    puts("\n");
+    puts("");
 }//i think the formatting might be a little wonky
